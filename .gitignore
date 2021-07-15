@@ -1,0 +1,4 @@
+*.docx
+*.class
+.DS_Store
+*_print.pdf
