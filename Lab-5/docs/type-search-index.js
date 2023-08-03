@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"<Unnamed>","l":"Geometry"},{"l":"所有类","url":"allclasses-index.html"}]
